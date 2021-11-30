@@ -1,3 +1,18 @@
 body {
-
+  font-family: system-ui;
+  background: white
+   ;
+  color: #ed7117
+  
+   ;
+  text-align: center;
+border: 5px black dashed
+  li{Font size: 1000px}
+    color: #ed7117;
 }
+table {wdith:60%;
+Text-align: center;
+  border: Solid hotpink 20px
+    
+      
+    
