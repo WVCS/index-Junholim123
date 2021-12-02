@@ -14,5 +14,18 @@ table {wdith:60%;
 Text-align: center;
   border: Solid hotpink 20px
     
-      
+  }
+    #new{
+  list-style-type: none;
+  background-color: pink;
+}
+li a {
+  display: block;
+  float: left;
+  padding: 10px 100px;
+  color: purple;
+} 
+li a:hover{
+  background-color: yellow;
+}    
     
